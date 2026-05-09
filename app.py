@@ -43,17 +43,18 @@ race_ethnicity = st.sidebar.selectbox(
         "Non-Hispanic White",
         "Non-Hispanic Black",
         "Non-Hispanic Asian",
-        "Other",
+        "Other race or multiracial",
     ],
 )
 
 education = st.sidebar.selectbox(
     "Education",
     [
-        "Less than high school",
-        "High school",
-        "Some college",
-        "College or above",
+        "Less than 9th grade",
+        "9th to 11th grade",
+        "High school or GED",
+        "Some college or AA degree",
+        "College graduate or above",
     ],
 )
 

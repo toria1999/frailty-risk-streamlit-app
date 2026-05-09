@@ -2,7 +2,7 @@
 
 ## Project description
 
-This project is a Streamlit machine-learning app that estimates frailty status among older adults. The app uses demographic, chronic disease, physical activity, and physical function inputs to predict whether an older adult profile is most consistent with robust, pre-frail, or frail status.
+This project is a Streamlit machine-learning app that estimates frailty status among older adults. The app uses demographic, chronic disease, physical activity, and physical function inputs to predict whether an older adult profile is most consistent with robust, pre-frail, or frail status. 
 
 ## What the app does
 
@@ -23,3 +23,9 @@ Install the required packages:
 
 ```bash
 pip install -r requirements.txt
+
+
+## Link of the video
+
+https://drive.google.com/file/d/1Gm9z3bJ4obIiTY1eXCmkS0Hwq_kFhfEe/view?usp=sharing
+
